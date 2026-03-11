@@ -1,5 +1,5 @@
 # estudos-java
-# Projeto Fênix: Revitalizando um Positivo Mobo para Dev Java 🚀
+# Projeto Fênix: Revitalizando um Positivo Mobo para Dev Java 
 
 Este repositório documenta minha jornada de aprendizado em programação, começando do hardware!
 
